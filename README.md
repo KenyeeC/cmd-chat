@@ -16,9 +16,10 @@
 　以下三种下载方式任选一种：
     
 　　1.直接下载（推荐，下载快）:
+  
 
-    
 　　　[适合window 64位系统](https://npm.taobao.org/mirrors/node/v8.9.0/node-v8.9.0-x64.msi )
+   
   
 　　　[适合window 32位系统](https://npm.taobao.org/mirrors/node/v8.9.0/node-v8.9.0-x86.msi )
   
@@ -32,12 +33,12 @@
 
 　　1. 在桌面或文件夹内按住键盘shift键，同时单击鼠标右键，在出现的菜单栏选择“在此处打开命令窗口”，即可打开命令窗
     
-　　　![image](https://imgsa.baidu.com/exp/w=500/sign=4e6b077978f40ad115e4c7e3672c1151/0d338744ebf81a4c151fdc88d42a6059252da645.jpg)
+　　　![image](http://kenyee.cc/images/tutorial_1.png)
     
   　2. 同时按住键盘 win + R键，在弹出窗口输入cmd，按回车键即可打开 
     
-　　　![image](https://imgsa.baidu.com/exp/w=480/sign=493131d62cdda3cc0be4b92831e93905/8cb1cb1349540923df53cb379058d109b3de4944.jpg)
-　　　![image](https://imgsa.baidu.com/exp/w=480/sign=f26c69c585d6277fe912333018391f63/08f790529822720e799e1f8479cb0a46f21fab78.jpg)
+　　　![image](http://kenyee.cc/images/tutorial_2.png)
+　　　![image](http://kenyee.cc/images/tutorial_3.png)
 
 - #### 安装cmd-chat
 　　在命令窗中输入 
