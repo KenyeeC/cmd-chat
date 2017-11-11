@@ -18,10 +18,7 @@
 　　1.直接下载（推荐，下载快）:
   
 
-　　　[适合window 64位系统](https://npm.taobao.org/mirrors/node/v8.9.0/node-v8.9.0-x64.msi )
-   
-  
-　　　[适合window 32位系统](https://npm.taobao.org/mirrors/node/v8.9.0/node-v8.9.0-x86.msi )
+　　　[适合window 64位系统](https://npm.taobao.org/mirrors/node/v8.9.0/node-v8.9.0-x64.msi )　[适合window 32位系统](https://npm.taobao.org/mirrors/node/v8.9.0/node-v8.9.0-x86.msi )
   
 　　2.国内镜像（下载快）： http://nodejs.cn/download/
 
