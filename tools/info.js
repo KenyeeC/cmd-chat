@@ -1,5 +1,6 @@
 const fs = require('fs')
-const userinfo = './userinfo.txt'
+const path = require('path')
+const userinfo = path.join(__dirname, '../userinfo.txt')
 
 let infoCache = {}
 

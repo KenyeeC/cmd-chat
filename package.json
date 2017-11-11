@@ -1,10 +1,10 @@
 {
   "name": "cmd-chat",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "chat in cmd",
   "main": "bin/chat.js",
   "bin": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "chat":"bin/chat.js"
   },
   "repository": {
     "type": "git",
